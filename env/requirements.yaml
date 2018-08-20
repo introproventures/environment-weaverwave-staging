@@ -2,6 +2,9 @@ dependencies:
 - name: application
   repository: https://activiti.github.io/activiti-cloud-charts/
   version: 0.2.0
+- name: aps-unit-test-example
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 1.0.2
 - name: example-runtime-bundle
   repository: http://jenkins-x-chartmuseum:8080
   version: 7.0.9
